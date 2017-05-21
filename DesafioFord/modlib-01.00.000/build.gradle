@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('modlib-01.00.000.jar'))
